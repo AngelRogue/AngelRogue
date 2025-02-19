@@ -25,7 +25,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KVMSANDEEPA&show_icons=true&locale=en&layout=compact" alt="KVMSANDEEPA" /></p>
+<p><img align="left" src="https://avatars.githubusercontent.com/u/166363254?s=400&u=f5526d18444e62c61330794e2c8a18929ebd44b5&v=4" alt="KVMSANDEEPA" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KVMSANDEEPA&show_icons=true&locale=en" alt="KVMSANDEEPA" /></p>
 
