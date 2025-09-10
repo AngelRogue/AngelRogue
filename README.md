@@ -1,29 +1,78 @@
+<h1 align="center">Hi, I'm Malith Sandeepa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
-# Hi 👋, I'm Malith Sandeepa
-
-### Web Development | Software Development
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KVMSANDEEPA&label=Profile%20views&color=0e75b6&style=flat" alt="KVMSANDEEPA" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KVMSANDEEPA" alt="KVMSANDEEPA" /></a> </p>
-
-- 📫 How to reach me **malithsandeepa1081@gmail.com**
-
-### Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/malith-sandeepa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malith-sandeepa" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100071177107363" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/malithsandeepa.2003/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="instagram" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KVMSANDEEPA&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-### Languages and Tools:
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="dart" width="40" height="40"/> </a> 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+My+GitHub+Profile;Web+Developer;Software+Developer;Always+Learning+New+Technologies">
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KVMSANDEEPA&show_icons=true&locale=en" alt="KVMSANDEEPA" /></p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+  <p>Loading...</p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KVMSANDEEPA&" alt="KVMSANDEEPA" /></p>
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="350px">
+
+---
+
+## 🚀 About Me
+- 💻 **Web & Software Developer** – Skilled in creating responsive websites and software solutions.  
+- 🌐 **Frontend Tools** – Proficient in HTML, CSS, JavaScript, Bootstrap, TailwindCSS, and Dart.  
+- 🗄️ **Backend Development** – Experienced with PHP & MySQL for server-side solutions.  
+- 📫 **How to reach me** – [malithsandeepa1081@gmail.com](mailto:malithsandeepa1081@gmail.com)  
+- 🚀 **Always Learning** – Passionate about exploring new frameworks, tools, and modern development practices.  
+
+---
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=KVMSANDEEPA&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">🌐 Connect with Me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/malith-sandeepa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100071177107363" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/malithsandeepa.2003/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+<h3 align="left"> 🚀 Languages and Tools </h3>
+
+[![HTML](https://skillicons.dev/icons?i=html)](https://en.wikipedia.org/wiki/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://en.wikipedia.org/wiki/CSS)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/)
+
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+
+---
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KVMSANDEEPA&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KVMSANDEEPA&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=KVMSANDEEPA&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
