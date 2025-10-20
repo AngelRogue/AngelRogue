@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Malith Sandeepa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KVMSANDEEPA&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AngelRogue&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KVMSANDEEPA&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AngelRogue&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -65,14 +65,15 @@
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 
 ---
+
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KVMSANDEEPA&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelRogue&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KVMSANDEEPA&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AngelRogue&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=KVMSANDEEPA&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AngelRogue&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
