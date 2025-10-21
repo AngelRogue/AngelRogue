@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Malith Sandeepa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
+<h1 align="center">Hi, I'm Malith Sandeepa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AngelRogue&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -10,12 +10,18 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-  <p>Loading...</p>
-</div>
+<!-- Animated GitHub Logo -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AngelRogue/AngelRogue/main/Images/GitHub_optimized.gif?raw=true&v=2" 
+       alt="GitHub Octocat Logo" height="100">
+  <br>
+  <em>Loading...</em>
+</p>
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="350px">
+<!-- Right Side Animation -->
+<img align="right" 
+     src="https://raw.githubusercontent.com/AngelRogue/AngelRogue/main/Images/Right_Side_optimized.gif?raw=true&v=2" 
+     width="350px">
 
 ---
 
@@ -61,7 +67,6 @@
 [![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/)
-
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 
 ---
