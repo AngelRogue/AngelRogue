@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Malith Sandeepa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Hi, I'm Malith Sandeepa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AngelRogue&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -10,54 +10,40 @@
   </a>
 </p>
 
-<!-- Animated GitHub Logo -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AngelRogue/AngelRogue/main/Images/GitHub_optimized.gif?raw=true&v=2" 
-       alt="GitHub Octocat Logo" height="100">
-  <br>
-  <em>Loading...</em>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AngelRogue/AngelRogue/main/Images/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+  <p>Loading...</p>
+</div>
 
-<!-- Right Side Animation -->
-<img align="right" 
-     src="https://raw.githubusercontent.com/AngelRogue/AngelRogue/main/Images/Right_Side_optimized.gif?raw=true&v=2" 
-     width="350px">
+<img align="right" src="https://raw.githubusercontent.com/AngelRogue/AngelRogue/main/Images/Right_Side.gif?raw=true" width="350px">
 
 ---
 
 ## 🚀 About Me
-- 💻 **Web & Software Developer** – Skilled in creating responsive websites and software solutions.  
-- 🌐 **Frontend Tools** – Proficient in HTML, CSS, JavaScript, Bootstrap, TailwindCSS, and Dart.  
-- 🗄️ **Backend Development** – Experienced with PHP & MySQL for server-side solutions.  
-- 📫 **How to reach me** – [malithsandeepa1081@gmail.com](mailto:malithsandeepa1081@gmail.com)  
-- 🚀 **Always Learning** – Passionate about exploring new frameworks, tools, and modern development practices.  
+- 💻 **Web & Software Developer** – Skilled in creating responsive websites and software solutions.
+- 🌐 **Frontend Tools** – Proficient in HTML, CSS, JavaScript, Bootstrap, TailwindCSS, and Dart.
+- 🗄️ **Backend Development** – Experienced with PHP & MySQL for server-side solutions.
+- 📫 **How to reach me** – <malithsandeepa1081@gmail.com>
+- 🚀 **Always Learning** – Passionate about exploring new frameworks, tools, and modern development practices.
 
 ---
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AngelRogue&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
-<h3 align="center">🌐 Connect with Me</h3>
+## 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/malith-sandeepa" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100071177107363" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
+    <img src="https://skillicons.dev/icons?i=facebook" />
   </a>
   <a href="https://www.instagram.com/malithsandeepa.2003/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
 ---
 
-<h3 align="left"> 🚀 Languages and Tools </h3>
+## 🚀 Languages and Tools
 
 [![HTML](https://skillicons.dev/icons?i=html)](https://en.wikipedia.org/wiki/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://en.wikipedia.org/wiki/CSS)
@@ -67,18 +53,23 @@
 [![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelRogue&theme=tokyonight" alt="GitHub Streak" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AngelRogue&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AngelRogue&theme=tokyonight)
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngelRogue&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AngelRogue&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AngelRogue&show_icons=true&theme=tokyonight)
+
+---
+
+## 🤝 Let’s Collaborate!
+💬 If you’d like to work together or discuss a project,
+📧 Email me: **malithsandeepa1081@gmail.com**
+
+---
+
+*“Code. Learn. Build. Repeat.”*
