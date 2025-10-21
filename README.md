@@ -11,12 +11,8 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AngelRogue/AngelRogue/main/Images/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-  <p>Loading...</p>
-</div>
-
-<img align="right" src="https://raw.githubusercontent.com/AngelRogue/AngelRogue/main/Images/Right_Side.gif?raw=true" width="350px">
-
+ <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100"> <p>Loading</p> </div>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px>
 ---
 
 ## 🚀 About Me
