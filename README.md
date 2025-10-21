@@ -13,7 +13,7 @@
 <div align="center">
  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100"> <p>Loading</p> </div>
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px>
----
+
 
 ## 🚀 About Me
 - 💻 **Web & Software Developer** – Skilled in creating responsive websites and software solutions.
@@ -22,7 +22,6 @@
 - 📫 **How to reach me** – <malithsandeepa1081@gmail.com>
 - 🚀 **Always Learning** – Passionate about exploring new frameworks, tools, and modern development practices.
 
----
 
 ## 🌐 Connect with Me
 <p align="center">
